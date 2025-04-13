@@ -1,0 +1,9 @@
+{
+  "hidden_size": 128,
+  "activation": "relu",
+  "learning_rate": 0.01,
+  "lr_decay_rate": 0.95,
+  "reg_lambda": 0.001,
+  "best_val_accuracy": 0.3888,
+  "training_time": 17.92117738723755
+}
